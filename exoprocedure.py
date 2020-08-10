@@ -9,3 +9,4 @@ nbr=float(input('entez le nombre de pas :'))
 h=float(input('entrez la hauteur des pas '))
 
 hauteurparcourue(nbr,h)
+print('hello')
